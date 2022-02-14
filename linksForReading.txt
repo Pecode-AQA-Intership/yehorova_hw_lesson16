@@ -1,0 +1,39 @@
+API
+https://www.guru99.com/api-testing.html
+https://www.sisense.com/blog/rest-api-testing-strategy-what-exactly-should-you-test/
+https://docs.katalon.com/katalon-studio/docs/introduction_api_testing.html#what-is-api-testing
+https://petstore.swagger.io/#/pet/findPetsByStatus
+https://www.postman.com/downloads/
+https://learning.postman.com/docs/getting-started/sending-the-first-request/
+https://www.npmjs.com/package/supertest
+https://www.npmjs.com/package/faker
+
+GIT
+What is a version control system,
+• What is a git repository,
+• Creating a repo,
+• Git clone
+• Git config,
+• Git add,
+• Git pull,
+• Git commit,
+• Git fetch,
+• Git push)” “• Git remote
+• Git reset
+• Git fetch
+• Git fork
+• Deleting a branch
+• Git status
+• Resolving git conflicts
+• squash multiple commits
+• Git stash
+• git stash pop
+• git stash drop
+• git stash apply
+• git stash list
+Pull request 
+New branch for each new feature concept 
+Revert a commit that is already pushed
+All of thats(^) topic you can find here : https://git-scm.com/doc
+
+https://tproger.ru/translations/git-quick-start/
