@@ -1,0 +1,29 @@
+{
+  "name": "hw_lesson_12_yehorova",
+  "version": "1.0.0",
+  "description": "\"HW Lesson 12 Yehorova\"",
+  "main": "test_main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pecode-AQA-Intership/HW_Lesson_12_Yehorova.git"
+  },
+  "author": "Yehorova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pecode-AQA-Intership/HW_Lesson_12_Yehorova/issues"
+  },
+  "homepage": "https://github.com/Pecode-AQA-Intership/HW_Lesson_12_Yehorova#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "filereader": "^0.10.3",
+    "supertest": "^6.2.2"
+  },
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
